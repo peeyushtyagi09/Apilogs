@@ -1,6 +1,4 @@
- you have to one this that is read utils foldeer in place of controllers folder and complete utils.md in place of controllers.md file - instruction -> # APILogs Backend — Routes Documentation
-
->You are documenting the **APILogs backend** for a developer who needs to understand the complete project for technical interviews.
+now we are in frontend folder you have to do one this in place of controller you have to check that folder frontend/src/react_components and in place of controllers.md you have to check react_components.md with that instructions -> You are documenting the **APILogs backend** for a developer who needs to understand the complete project for technical interviews.
 
 The existing documentation is in:
 
@@ -147,3 +145,4 @@ At the end, provide a concise report containing:
 3. Discrepancies found between the old README and source code.
 4. Important implementation details that were previously missing.
 5. Remaining areas that could not be verified.
+ 
